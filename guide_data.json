@@ -1,0 +1,1998 @@
+{
+  "2": {
+    "title": "2 - Positron V3.2 - Z Column",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Preparation for the Printed Part"
+          },
+          {
+            "title": "Assembling the Left Z Joint Plate"
+          },
+          {
+            "title": "Assembling the Z Idler Latch"
+          },
+          {
+            "title": "Prepare the Z Sliding Idler Block"
+          },
+          {
+            "title": "Prepare the Bed Carriage Block"
+          },
+          {
+            "title": "Load T-nuts"
+          },
+          {
+            "title": "Install the Linear Rail onto the Extrusion"
+          },
+          {
+            "title": "Install the Bed Carriage Block"
+          },
+          {
+            "title": "Install the Z Belt Retainer Block"
+          },
+          {
+            "title": "Install the Z Sliding Idler Block"
+          },
+          {
+            "title": "Install the Z Top Stopper"
+          },
+          {
+            "title": "Install the Left Z Joint Plate"
+          },
+          {
+            "title": "Insert the Bed Cable Guide"
+          },
+          {
+            "title": "Install the Extruder"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "0001.png",
+        "fn": "0001-37.webp"
+      },
+      {
+        "alt": "0001-3.png",
+        "fn": "0001-3.webp"
+      },
+      {
+        "alt": "Z Belt Retainer.jpg",
+        "fn": "Z Belt Retainer-1.webp"
+      },
+      {
+        "alt": "Z Tension Arm.jpg",
+        "fn": "Z Tension Arm.webp"
+      },
+      {
+        "alt": "Z Tension Pivot.jpg",
+        "fn": "Z Tension Pivot.webp"
+      },
+      {
+        "alt": "Z Tension Stop.jpg",
+        "fn": "Z Tension Stop.webp"
+      },
+      {
+        "alt": "001-1.png",
+        "fn": "001-1.webp"
+      },
+      {
+        "alt": "001-3.png",
+        "fn": "001-8.webp"
+      },
+      {
+        "alt": "000.png",
+        "fn": "000-4.webp"
+      },
+      {
+        "alt": "0107-3.png",
+        "fn": "0107-3.webp"
+      },
+      {
+        "alt": "0001-1.png",
+        "fn": "0001-26.webp"
+      },
+      {
+        "alt": "0001-0.png",
+        "fn": "0001-0.webp"
+      },
+      {
+        "alt": "0001-4.png",
+        "fn": "0001-58.webp"
+      },
+      {
+        "alt": "0001-7.png",
+        "fn": "0001-40.webp"
+      },
+      {
+        "alt": "0001-8.png",
+        "fn": "0001-45.webp"
+      },
+      {
+        "alt": "Tension arm 01.jpg",
+        "fn": "Tension arm 01.webp"
+      },
+      {
+        "alt": "Tension arm 02.jpg",
+        "fn": "Tension arm 02.webp"
+      },
+      {
+        "alt": "Tension arm 03.jpg",
+        "fn": "Tension arm 03.webp"
+      },
+      {
+        "alt": "Tension arm 04.jpg",
+        "fn": "Tension arm 04.webp"
+      },
+      {
+        "alt": "0001-17.png",
+        "fn": "0001-52.webp"
+      },
+      {
+        "alt": "00.jpg",
+        "fn": "00.webp"
+      },
+      {
+        "alt": "0001-19.png",
+        "fn": "0001-61.webp"
+      },
+      {
+        "alt": "0001-18.png",
+        "fn": "0001-18.webp"
+      },
+      {
+        "alt": "0001-20.png",
+        "fn": "0001-49.webp"
+      },
+      {
+        "alt": "0001-21.png",
+        "fn": "0001-53.webp"
+      },
+      {
+        "alt": "0001-22.png",
+        "fn": "0001-22.webp"
+      },
+      {
+        "alt": "001 Z Axis Assembly.png",
+        "fn": "001 Z Axis Assembly.webp"
+      },
+      {
+        "alt": "002 Z Axis Assembly.png",
+        "fn": "002 Z Axis Assembly.webp"
+      },
+      {
+        "alt": "003 Z Axis Assembly.png",
+        "fn": "003 Z Axis Assembly.webp"
+      },
+      {
+        "alt": "004 Z Axis Assembly.png",
+        "fn": "004 Z Axis Assembly.webp"
+      },
+      {
+        "alt": "005 Z Axis Assembly.png",
+        "fn": "005 Z Axis Assembly.webp"
+      },
+      {
+        "alt": "block 2.jpg",
+        "fn": "block 2.webp"
+      },
+      {
+        "alt": "block 3.jpg",
+        "fn": "block 3.webp"
+      },
+      {
+        "alt": "block 1.jpg",
+        "fn": "block 1.webp"
+      },
+      {
+        "alt": "block 7.jpg",
+        "fn": "block 7.webp"
+      },
+      {
+        "alt": "block 6.jpg",
+        "fn": "block 6.webp"
+      },
+      {
+        "alt": "block 4.jpg",
+        "fn": "block 4-1.webp"
+      },
+      {
+        "alt": "block 5.jpg",
+        "fn": "block 5-1.webp"
+      },
+      {
+        "alt": "002.jpg",
+        "fn": "002-2.webp"
+      },
+      {
+        "alt": "004.jpg",
+        "fn": "004-3.webp"
+      },
+      {
+        "alt": "006.jpg",
+        "fn": "006-2.webp"
+      },
+      {
+        "alt": "000.jpg",
+        "fn": "000-2.webp"
+      },
+      {
+        "alt": "003.jpg",
+        "fn": "003-2.webp"
+      },
+      {
+        "alt": "001.jpg",
+        "fn": "001-5.webp"
+      },
+      {
+        "alt": "005.jpg",
+        "fn": "005-2.webp"
+      },
+      {
+        "alt": "008.jpg",
+        "fn": "008-2.webp"
+      },
+      {
+        "alt": "007.jpg",
+        "fn": "007-2.webp"
+      },
+      {
+        "alt": "010.jpg",
+        "fn": "010-1.webp"
+      },
+      {
+        "alt": "012.jpg",
+        "fn": "012-3.webp"
+      },
+      {
+        "alt": "009.jpg",
+        "fn": "009.webp"
+      },
+      {
+        "alt": "011.jpg",
+        "fn": "011-1.webp"
+      },
+      {
+        "alt": "013.jpg",
+        "fn": "013-2.webp"
+      },
+      {
+        "alt": "014.jpg",
+        "fn": "014-2.webp"
+      },
+      {
+        "alt": "015.jpg",
+        "fn": "015-3.webp"
+      },
+      {
+        "alt": "016.jpg",
+        "fn": "016-2.webp"
+      },
+      {
+        "alt": "017.jpg",
+        "fn": "017-2.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us2 - Positron V3.2 - Z ColumnIn this guide we will build the Z column for the Positron V3.2.",
+      "Before you begin, please make sure you have these parts printed.",
+      "Install an M3x4x5 heatset insert into the hole of the printed top stopper.",
+      "For all the M2.5 screws, please use our screwdriver included in the kit.",
+      "Insert two M3x18 FHCS screws into the holes of the left Z joint plate.",
+      "8Assembling the Z Idler LatchStep 2 of 14 in this sectionInsert a 6mm bearing ball into the hole of the tension arm. Let it fall into the hole so that it slightly protrudes from the end of the arm.",
+      "Insert an M3x18 FHCS screw into the hole of the Z sliding idler block. Add a 6mm idler.",
+      "Combine the bed carriage block, bed breakout PCB and printed edge connector alignment tool.",
+      "Load M3 roll-in nuts into the 1030 extrusion.",
+      "Put the linear rail on top of the extrusion and align the preloaded nuts with the holes of the linear rail.",
+      "Use alignment jigs to help you position the linear rail. Install M3x8 SHCS screws and leave them slightly loose in order to adjust them later on.",
+      "Attach the bed carriage block onto the carriage block of the linear rail and secure with M3x12 SHCS screws.",
+      "Self-tap two M3x10 SHCS into the holes of the printed part.",
+      "16Install the Z Sliding Idler BlockStep 9 of 14 in this sectionPreload an M4 hex nut on the positon about 88mm from the edge of the extrusion.",
+      "Position the stopper to the linear rail and secure with an M3x12 SHCS screw.",
+      "Preload three M4 hex nuts into the extrusion.",
+      "Insert the printed bed cable guide into the extrusion. And preload M4 hex nuts into the slot of the extrusion.",
+      "22Assembly CompleteStep 14 of 14 in this sectionYou now have completed the assembly of the Z Column."
+    ],
+    "img_count": 56,
+    "step_count": 18,
+    "sec_count": 2
+  },
+  "3": {
+    "title": "3 - Positron V3.2 - Z Drive",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Preparation for the Printed Parts"
+          },
+          {
+            "title": "Assembly Schematic Diagram"
+          },
+          {
+            "title": "Install the Planetary Shaft and Gears"
+          },
+          {
+            "title": "Cover the Planeraty Gearbox Cover"
+          },
+          {
+            "title": "Add the Z Motor"
+          },
+          {
+            "title": "Prepare the Main Body"
+          },
+          {
+            "title": "Route the Belt & Connect the Main Body"
+          },
+          {
+            "title": "Install Motor Bracket"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "032.png",
+        "fn": "032.webp"
+      },
+      {
+        "alt": "printed part.jpg",
+        "fn": "printed part.webp"
+      },
+      {
+        "alt": "031.png",
+        "fn": "031.webp"
+      },
+      {
+        "alt": "0001.png",
+        "fn": "0001-63.webp"
+      },
+      {
+        "alt": "0001-1.png",
+        "fn": "0001-1.webp"
+      },
+      {
+        "alt": "0001-2.png",
+        "fn": "0001-34.webp"
+      },
+      {
+        "alt": "0001-3.png",
+        "fn": "0001-6.webp"
+      },
+      {
+        "alt": "insert 1.jpg",
+        "fn": "insert 1.webp"
+      },
+      {
+        "alt": "insert 2.jpg",
+        "fn": "insert 2.webp"
+      },
+      {
+        "alt": "018-1.jpg",
+        "fn": "018-1.webp"
+      },
+      {
+        "alt": "presentation2.jpg",
+        "fn": "presentation2.webp"
+      },
+      {
+        "alt": "diagram 1.jpg",
+        "fn": "diagram 1.webp"
+      },
+      {
+        "alt": "diagram 2.jpg",
+        "fn": "diagram 2.webp"
+      },
+      {
+        "alt": "0004.jpg",
+        "fn": "0004-2.webp"
+      },
+      {
+        "alt": "0007.jpg",
+        "fn": "0007-4.webp"
+      },
+      {
+        "alt": "0003.jpg",
+        "fn": "0003.webp"
+      },
+      {
+        "alt": "0005.jpg",
+        "fn": "0005-6.webp"
+      },
+      {
+        "alt": "0006.jpg",
+        "fn": "0006-8.webp"
+      },
+      {
+        "alt": "0008.jpg",
+        "fn": "0008-9.webp"
+      },
+      {
+        "alt": "0010.jpg",
+        "fn": "0010-5.webp"
+      },
+      {
+        "alt": "0009.jpg",
+        "fn": "0009-9.webp"
+      },
+      {
+        "alt": "0014.jpg",
+        "fn": "0014-7.webp"
+      },
+      {
+        "alt": "0016.jpg",
+        "fn": "0016-2.webp"
+      },
+      {
+        "alt": "0018.jpg",
+        "fn": "0018-1.webp"
+      },
+      {
+        "alt": "0011.jpg",
+        "fn": "0011-6.webp"
+      },
+      {
+        "alt": "0012.jpg",
+        "fn": "0012-1.webp"
+      },
+      {
+        "alt": "0013.jpg",
+        "fn": "0013-5.webp"
+      },
+      {
+        "alt": "0015.jpg",
+        "fn": "0015-4.webp"
+      },
+      {
+        "alt": "0017.jpg",
+        "fn": "0017.webp"
+      },
+      {
+        "alt": "0015-1.png",
+        "fn": "0015-1.webp"
+      },
+      {
+        "alt": "0015.png",
+        "fn": "0015.webp"
+      },
+      {
+        "alt": "0019.jpg",
+        "fn": "0019.webp"
+      },
+      {
+        "alt": "0024.jpg",
+        "fn": "0024-2.webp"
+      },
+      {
+        "alt": "0020.jpg",
+        "fn": "0020.webp"
+      },
+      {
+        "alt": "0021.jpg",
+        "fn": "0021.webp"
+      },
+      {
+        "alt": "z drive wiring.png",
+        "fn": "z drive wiring.webp"
+      },
+      {
+        "alt": "0022.jpg",
+        "fn": "0022-1.webp"
+      },
+      {
+        "alt": "0023.jpg",
+        "fn": "0023-2.webp"
+      },
+      {
+        "alt": "0025.jpg",
+        "fn": "0025-1.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us3 - Positron V3.2 - Z DriveThis guide contains instructions for building the Z drive for the Positron V3.2.",
+      "Before you start to assemble, please make sure you have these parts printed.",
+      "Z Drive Main Body x1 (Remember to remove the printed support.)",
+      "Install M3x4x5 heatset inserts into the indicated holes of the printed part.",
+      "Attach the Z motor to the planetary gearbox cover.",
+      "Insert an M3x20 BHCS screw through the hole of the main body and thread two washers and an idler in the indicated order.",
+      "Route the 6mm belt as shown in the pictures. We will wire the belt to the Z column in a later step.",
+      "Attach the motor bracket to the motor as shown in the picture.",
+      "17Assembly CompleteStep 8 of 8 in this sectionYou have completed the assembly of the Z drive."
+    ],
+    "img_count": 39,
+    "step_count": 9,
+    "sec_count": 2
+  },
+  "4": {
+    "title": "4 - Positron V3.2 - Bed V Holder",
+    "sections": [
+      {
+        "title": "1. Parts to print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed parts"
+          },
+          {
+            "title": "Assemble the Standoffs"
+          },
+          {
+            "title": "Install the Thumbscrews"
+          },
+          {
+            "title": "Fasten the Standoffs"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "0001-1.png",
+        "fn": "0001-11.webp"
+      },
+      {
+        "alt": "0005.png",
+        "fn": "0005-1.webp"
+      },
+      {
+        "alt": "0003.png",
+        "fn": "0003-6.webp"
+      },
+      {
+        "alt": "0004.png",
+        "fn": "0004-5.webp"
+      },
+      {
+        "alt": "0002-1.png",
+        "fn": "0002-7.webp"
+      },
+      {
+        "alt": "0002.png",
+        "fn": "0002-8.webp"
+      },
+      {
+        "alt": "0006.png",
+        "fn": "0006.webp"
+      },
+      {
+        "alt": "0007.png",
+        "fn": "0007-1.webp"
+      },
+      {
+        "alt": "0008.png",
+        "fn": "0008-10.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us4 - Positron V3.2 - Bed V HolderThis guide contains instructions for building the bed V holder for the Positron V3.2.",
+      "Before you start to assemble, please make sure that you have these parts printed.",
+      "Bed Spring Retainer Ring x2 (Remember to remove the printed support.)",
+      "When you receive the parts, they are pre-assembled as shown in the picture. Please unscrew the M3x12 thumbscrews first.",
+      "Insert M3x12 thumbscrews into the holes of the bed V holder.",
+      "Attach the assembled standoffs to the thumb screws and tighten the thumbscrews.",
+      "Now you have completed the assembly of the bed V holder."
+    ],
+    "img_count": 9,
+    "step_count": 7,
+    "sec_count": 2
+  },
+  "5": {
+    "title": "5 - Positron V3.2 - Touch Panel",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Preparation for the Printed Part"
+          },
+          {
+            "title": "Install the Wifi Antenna"
+          },
+          {
+            "title": "Install the Touch Control"
+          },
+          {
+            "title": "Assemble the Cover Stand"
+          },
+          {
+            "title": "Install SD Card"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "0001.png",
+        "fn": "0001-54.webp"
+      },
+      {
+        "alt": "0002.png",
+        "fn": "0002-3.webp"
+      },
+      {
+        "alt": "0003.png",
+        "fn": "0003-13.webp"
+      },
+      {
+        "alt": "0003-2.png",
+        "fn": "0003-15.webp"
+      },
+      {
+        "alt": "0003-1.png",
+        "fn": "0003-5.webp"
+      },
+      {
+        "alt": "Top Touch Panel.png",
+        "fn": "Top Touch Panel.webp"
+      },
+      {
+        "alt": "01.jpg",
+        "fn": "01-1.webp"
+      },
+      {
+        "alt": "0003-6.png",
+        "fn": "0003-8.webp"
+      },
+      {
+        "alt": "0003-5.png",
+        "fn": "0003-11.webp"
+      },
+      {
+        "alt": "0003-8.png",
+        "fn": "0003-14.webp"
+      },
+      {
+        "alt": "0003-7.png",
+        "fn": "0003-9.webp"
+      },
+      {
+        "alt": "SDcard.png",
+        "fn": "SDcard-1.webp"
+      },
+      {
+        "alt": "0011.png",
+        "fn": "0011-4.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us5 - Positron V3.2 - Touch PanelThis guide contains instructions for building the touch panel for the Positron V3.2.",
+      "Before you start to assemble the touch panel, please make sure you have these parts printed.",
+      "Install M2.5x3x4 heatset inserts into holes of the printed back plate.",
+      "For all the M2.5 screws, please use our screwdriver included in the kit.",
+      "Put the touch control into the touch enclosure and cover the back plate.",
+      "Attach the printed touch enclosure and cover stand together and then secure with M2.5x6 FHCS screws.",
+      "Now you have completed the assembly of the touch panel."
+    ],
+    "img_count": 13,
+    "step_count": 7,
+    "sec_count": 2
+  },
+  "6": {
+    "title": "6 - Positron V3.2 - Toolhead",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Preparation for the Printed Parts"
+          },
+          {
+            "title": "Prepare the Toolhead Base Plate"
+          },
+          {
+            "title": "Install the Fan"
+          },
+          {
+            "title": "Install the Toolhead Base Plate"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "0092-1.png",
+        "fn": "0092-7.webp"
+      },
+      {
+        "alt": "0001.png",
+        "fn": "0001-8.webp"
+      },
+      {
+        "alt": "0024.png",
+        "fn": "0024-1.webp"
+      },
+      {
+        "alt": "0000.png",
+        "fn": "0000-3.webp"
+      },
+      {
+        "alt": "0023.jpg",
+        "fn": "0023.webp"
+      },
+      {
+        "alt": "0092-2.png",
+        "fn": "0092-3.webp"
+      },
+      {
+        "alt": "0092-3.png",
+        "fn": "0092-4.webp"
+      },
+      {
+        "alt": "assembly-1.png",
+        "fn": "assembly-1.webp"
+      },
+      {
+        "alt": "assembly2.png",
+        "fn": "assembly2-1.webp"
+      },
+      {
+        "alt": "assembly3-1.jpg",
+        "fn": "assembly3-1.webp"
+      },
+      {
+        "alt": "assembly5.png",
+        "fn": "assembly5.webp"
+      },
+      {
+        "alt": "assembly4.png",
+        "fn": "assembly4.webp"
+      },
+      {
+        "alt": "fan wire.jpg",
+        "fn": "fan wire.webp"
+      },
+      {
+        "alt": "assembly5.png",
+        "fn": "assembly5.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us6 - Positron V3.2 - ToolheadThis guide contains instructions for building the toolhead for the Positron V3.2.",
+      "Before you start to assemble, please make sure you have these parts printed.",
+      "Install an M3x4x5 heatset insert into this hole.",
+      "For all the M2.5 screws, please use our screwdriver included in the kit.",
+      "Cover with the toolhead base plate and secure with M2.5x6 FHCS screws.",
+      "8Install the FanStep 2 of 4 in this sectionThe hotend included in the kit is pre-assembled. Please double check the nozzle is fully fastened to avoid filament leakage during printing.",
+      "Aligh the holes of the toolhead base plate with the holes of the heatsink and secure with M2.5x6 BHCS screws.",
+      "You now have completed the assembly of the toolhead."
+    ],
+    "img_count": 14,
+    "step_count": 8,
+    "sec_count": 2
+  },
+  "7": {
+    "title": "7 - Positron V3.2 - Spool Holder",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Assemble the Spool Holder"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "0001.png",
+        "fn": "0001-25.webp"
+      },
+      {
+        "alt": "0002.png",
+        "fn": "0002-2.webp"
+      },
+      {
+        "alt": "0003.png",
+        "fn": "0003-10.webp"
+      },
+      {
+        "alt": "0005.png",
+        "fn": "0005-7.webp"
+      },
+      {
+        "alt": "0006.png",
+        "fn": "0006-7.webp"
+      },
+      {
+        "alt": "0000.png",
+        "fn": "0000-1.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us7 - Positron V3.2 - Spool HolderThis guide contains instructions for building the spool holder for the Positron V3.2.",
+      "Before you start to assemble, please make sure you have these parts printed.",
+      "Position 605ZZ bearings between the spool holder part A, B and C as shown in the picture. Secure with M3x10 FHCS screws.",
+      "You now have completed the assembly of the spool holder."
+    ],
+    "img_count": 6,
+    "step_count": 4,
+    "sec_count": 2
+  },
+  "8": {
+    "title": "8 - Positron V3.2 - Base Plate",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Install Standoffs"
+          },
+          {
+            "title": "Install the Switch PCB Mount"
+          },
+          {
+            "title": "Prepare the Motors"
+          },
+          {
+            "title": "Install AB Motors"
+          },
+          {
+            "title": "Install the Mainboard"
+          },
+          {
+            "title": "Install the Switch PCB"
+          },
+          {
+            "title": "Install Z Drive to the Base Plate"
+          },
+          {
+            "title": "Base Plate Wiring"
+          },
+          {
+            "title": "Prepare the Front Bumper"
+          },
+          {
+            "title": "Position Light Bar Brackets"
+          },
+          {
+            "title": "Install Light Guide Strip"
+          },
+          {
+            "title": "Prepare Side Panels"
+          },
+          {
+            "title": "Install the Power Switch"
+          },
+          {
+            "title": "Install the Heatset Inserts"
+          },
+          {
+            "title": "Install the Left Side & Mid Panel"
+          },
+          {
+            "title": "Install Left Upper Top Cover"
+          },
+          {
+            "title": "Install the Idlers"
+          },
+          {
+            "title": "Install the Linear Rail"
+          },
+          {
+            "title": "Install the Printed Tensioner Block"
+          },
+          {
+            "title": "Install the Right Side Panels"
+          },
+          {
+            "title": "Install the Right Mid Panel"
+          },
+          {
+            "title": "Install the Right Upper Top Cover"
+          },
+          {
+            "title": "Install the Idlers"
+          },
+          {
+            "title": "Install the Front Bumper"
+          },
+          {
+            "title": "Install the Y Axis Bumper Plate"
+          },
+          {
+            "title": "Install the Z Joint Base Block"
+          },
+          {
+            "title": "Install the Rubber Feet"
+          },
+          {
+            "title": "Assembly Complete"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "AB Pulley Alignment Tool.png",
+        "fn": "AB Pulley Alignment Tool.webp"
+      },
+      {
+        "alt": "switch mount.png",
+        "fn": "switch mount.webp"
+      },
+      {
+        "alt": "Light Bar Bracket Front 2.png",
+        "fn": "Light Bar Bracket Front 2.webp"
+      },
+      {
+        "alt": "Light Bar Bracket Rear.png",
+        "fn": "Light Bar Bracket Rear.webp"
+      },
+      {
+        "alt": "Left Side Walls.png",
+        "fn": "Left Side Walls.webp"
+      },
+      {
+        "alt": "002Right Side Walls.png",
+        "fn": "002Right Side Walls.webp"
+      },
+      {
+        "alt": "Left front Side Walls.png",
+        "fn": "Left front Side Walls.webp"
+      },
+      {
+        "alt": "00left Side Walls.png",
+        "fn": "00left Side Walls.webp"
+      },
+      {
+        "alt": "fish bone large.png",
+        "fn": "fish bone large.webp"
+      },
+      {
+        "alt": "fish bone small.png",
+        "fn": "fish bone small.webp"
+      },
+      {
+        "alt": "Front Bumper.png",
+        "fn": "Front Bumper.webp"
+      },
+      {
+        "alt": "Rear Cable Panel.png",
+        "fn": "Rear Cable Panel-1.webp"
+      },
+      {
+        "alt": "top cover, right.png",
+        "fn": "top cover, right.webp"
+      },
+      {
+        "alt": "top cover, left.png",
+        "fn": "top cover, left.webp"
+      },
+      {
+        "alt": "LED Cluster Retainer.png",
+        "fn": "LED Cluster Retainer.webp"
+      },
+      {
+        "alt": "Panel Cornerstone Left.png",
+        "fn": "Panel Cornerstone Left.webp"
+      },
+      {
+        "alt": "Panel Cornerstone Right.png",
+        "fn": "Panel Cornerstone Right.webp"
+      },
+      {
+        "alt": "Rear Idler Tensioner Block.png",
+        "fn": "Rear Idler Tensioner Block.webp"
+      },
+      {
+        "alt": "0001-2.jpg",
+        "fn": "0001-57.webp"
+      },
+      {
+        "alt": "0001-1.jpg",
+        "fn": "0001-35.webp"
+      },
+      {
+        "alt": "001-3.jpg",
+        "fn": "001-7.webp"
+      },
+      {
+        "alt": "0001.png",
+        "fn": "0001.webp"
+      },
+      {
+        "alt": "0001-3.jpg",
+        "fn": "0001-48.webp"
+      },
+      {
+        "alt": "0001-3-1.png",
+        "fn": "0001-3-1.webp"
+      },
+      {
+        "alt": "0001-3-2.png",
+        "fn": "0001-3-2.webp"
+      },
+      {
+        "alt": "0001-4.jpg",
+        "fn": "0001-4.webp"
+      },
+      {
+        "alt": "0001-7.jpg",
+        "fn": "0001-41.webp"
+      },
+      {
+        "alt": "0001-9.jpg",
+        "fn": "0001-56.webp"
+      },
+      {
+        "alt": "0010-1.jpg",
+        "fn": "0010-4.webp"
+      },
+      {
+        "alt": "0010-2.jpg",
+        "fn": "0010-11.webp"
+      },
+      {
+        "alt": "0013.png",
+        "fn": "0013-4.webp"
+      },
+      {
+        "alt": "M0012.png",
+        "fn": "M0012.webp"
+      },
+      {
+        "alt": "M0012-1.jpg",
+        "fn": "M0012-1.webp"
+      },
+      {
+        "alt": "M0015-1.png",
+        "fn": "M0015-4.webp"
+      },
+      {
+        "alt": "M0015-2.png",
+        "fn": "M0015-2.webp"
+      },
+      {
+        "alt": "M0017.png",
+        "fn": "M0017.webp"
+      },
+      {
+        "alt": "M0018.png",
+        "fn": "M0018.webp"
+      },
+      {
+        "alt": "0001-13.jpg",
+        "fn": "0001-13.webp"
+      },
+      {
+        "alt": "0001-12.jpg",
+        "fn": "0001-28.webp"
+      },
+      {
+        "alt": "0001-14.jpg",
+        "fn": "0001-19.webp"
+      },
+      {
+        "alt": "BPS12-1.JPG",
+        "fn": "BPS12-1.webp"
+      },
+      {
+        "alt": "0001-15.jpg",
+        "fn": "0001-15.webp"
+      },
+      {
+        "alt": "0001-16.jpg",
+        "fn": "0001-62.webp"
+      },
+      {
+        "alt": "0001-17.jpg",
+        "fn": "0001-17.webp"
+      },
+      {
+        "alt": "0001-18.jpg",
+        "fn": "0001-42.webp"
+      },
+      {
+        "alt": "0001-22.jpg",
+        "fn": "0001-36.webp"
+      },
+      {
+        "alt": "0001-24.jpg",
+        "fn": "0001-31.webp"
+      },
+      {
+        "alt": "0001-23.jpg",
+        "fn": "0001-24.webp"
+      },
+      {
+        "alt": "0001-21.jpg",
+        "fn": "0001-21.webp"
+      },
+      {
+        "alt": "base plate wiring.jpg",
+        "fn": "base plate wiring-1.webp"
+      },
+      {
+        "alt": "0063-0.png",
+        "fn": "0063-1.webp"
+      },
+      {
+        "alt": "0063-1.png",
+        "fn": "0063-2.webp"
+      },
+      {
+        "alt": "0063-2.jpg",
+        "fn": "0063-4.webp"
+      },
+      {
+        "alt": "0063-3.png",
+        "fn": "0063-3.webp"
+      },
+      {
+        "alt": "0034.png",
+        "fn": "0034.webp"
+      },
+      {
+        "alt": "0033.png",
+        "fn": "0033.webp"
+      },
+      {
+        "alt": "0037.jpg",
+        "fn": "0037.webp"
+      },
+      {
+        "alt": "0036.png",
+        "fn": "0036.webp"
+      },
+      {
+        "alt": "0040.jpg",
+        "fn": "0040.webp"
+      },
+      {
+        "alt": "0039.jpg",
+        "fn": "0039.webp"
+      },
+      {
+        "alt": "w0044.png",
+        "fn": "w0044.webp"
+      },
+      {
+        "alt": "w0043.png",
+        "fn": "w0043.webp"
+      },
+      {
+        "alt": "w0044-1.jpg",
+        "fn": "w0044-1.webp"
+      },
+      {
+        "alt": "w0044-2.jpg",
+        "fn": "w0044-2.webp"
+      },
+      {
+        "alt": "w0045.png",
+        "fn": "w0045.webp"
+      },
+      {
+        "alt": "0046-2.png",
+        "fn": "0046-2.webp"
+      },
+      {
+        "alt": "0042-2.png",
+        "fn": "0042-2.webp"
+      },
+      {
+        "alt": "w0048.png",
+        "fn": "w0048.webp"
+      },
+      {
+        "alt": "w0050.png",
+        "fn": "w0050.webp"
+      },
+      {
+        "alt": "w0047.png",
+        "fn": "w0047.webp"
+      },
+      {
+        "alt": "w0049.png",
+        "fn": "w0049.webp"
+      },
+      {
+        "alt": "base plate wiring.jpg",
+        "fn": "base plate wiring.webp"
+      },
+      {
+        "alt": "0002-9-3.png",
+        "fn": "0002-9-3.webp"
+      },
+      {
+        "alt": "0002-9-4.png",
+        "fn": "0002-9-4.webp"
+      },
+      {
+        "alt": "0002-8.jpg",
+        "fn": "0002-15.webp"
+      },
+      {
+        "alt": "0002-9.jpg",
+        "fn": "0002-9.webp"
+      },
+      {
+        "alt": "0002-9-1.jpg",
+        "fn": "0002-9-1.webp"
+      },
+      {
+        "alt": "0002-9-2.jpg",
+        "fn": "0002-9-2.webp"
+      },
+      {
+        "alt": "0002-10.jpg",
+        "fn": "0002-13.webp"
+      },
+      {
+        "alt": "0002-11.jpg",
+        "fn": "0002-14.webp"
+      },
+      {
+        "alt": "0002-13.jpg",
+        "fn": "0002-16.webp"
+      },
+      {
+        "alt": "0002-12.jpg",
+        "fn": "0002-12.webp"
+      },
+      {
+        "alt": "0052.jpg",
+        "fn": "0052.webp"
+      },
+      {
+        "alt": "0053.jpg",
+        "fn": "0053.webp"
+      },
+      {
+        "alt": "0055.jpg",
+        "fn": "0055.webp"
+      },
+      {
+        "alt": "0054-0.jpg",
+        "fn": "0054-0.webp"
+      },
+      {
+        "alt": "0057.jpg",
+        "fn": "0057.webp"
+      },
+      {
+        "alt": "0056-1.jpg",
+        "fn": "0056-1.webp"
+      },
+      {
+        "alt": "y0002.png",
+        "fn": "y0002.webp"
+      },
+      {
+        "alt": "y0003.png",
+        "fn": "y0003.webp"
+      },
+      {
+        "alt": "y0003-1.png",
+        "fn": "y0003-2.webp"
+      },
+      {
+        "alt": "y0004.png",
+        "fn": "y0004.webp"
+      },
+      {
+        "alt": "0058.jpg",
+        "fn": "0058.webp"
+      },
+      {
+        "alt": "0059.jpg",
+        "fn": "0059.webp"
+      },
+      {
+        "alt": "0076.png",
+        "fn": "0076-4.webp"
+      },
+      {
+        "alt": "0076-1.png",
+        "fn": "0076-3.webp"
+      },
+      {
+        "alt": "0060.jpg",
+        "fn": "0060.webp"
+      },
+      {
+        "alt": "0061.jpg",
+        "fn": "0061.webp"
+      },
+      {
+        "alt": "0062.jpg",
+        "fn": "0062.webp"
+      },
+      {
+        "alt": "0063.jpg",
+        "fn": "0063.webp"
+      },
+      {
+        "alt": "0064.jpg",
+        "fn": "0064.webp"
+      },
+      {
+        "alt": "0065.jpg",
+        "fn": "0065.webp"
+      },
+      {
+        "alt": "0081.jpg",
+        "fn": "0081.webp"
+      },
+      {
+        "alt": "0080.jpg",
+        "fn": "0080-3.webp"
+      },
+      {
+        "alt": "0065-1.jpg",
+        "fn": "0065-1.webp"
+      },
+      {
+        "alt": "0065-2.jpg",
+        "fn": "0065-2.webp"
+      },
+      {
+        "alt": "0066.jpg",
+        "fn": "0066-1.webp"
+      },
+      {
+        "alt": "0067.jpg",
+        "fn": "0067.webp"
+      },
+      {
+        "alt": "0068.jpg",
+        "fn": "0068.webp"
+      },
+      {
+        "alt": "0069.jpg",
+        "fn": "0069.webp"
+      },
+      {
+        "alt": "0071.jpg",
+        "fn": "0071.webp"
+      },
+      {
+        "alt": "0070.jpg",
+        "fn": "0070-1.webp"
+      },
+      {
+        "alt": "0072.jpg",
+        "fn": "0072.webp"
+      },
+      {
+        "alt": "0073.jpg",
+        "fn": "0073.webp"
+      },
+      {
+        "alt": "0074.jpg",
+        "fn": "0074.webp"
+      },
+      {
+        "alt": "0075.jpg",
+        "fn": "0075.webp"
+      },
+      {
+        "alt": "0076.jpg",
+        "fn": "0076.webp"
+      },
+      {
+        "alt": "0077.jpg",
+        "fn": "0077.webp"
+      },
+      {
+        "alt": "0076-1.jpg",
+        "fn": "0076-1.webp"
+      },
+      {
+        "alt": "0076-2.jpg",
+        "fn": "0076-2.webp"
+      },
+      {
+        "alt": "0078.jpg",
+        "fn": "0078-1.webp"
+      },
+      {
+        "alt": "0079.jpg",
+        "fn": "0079.webp"
+      },
+      {
+        "alt": "0081.jpg",
+        "fn": "0081-1.webp"
+      },
+      {
+        "alt": "0080.jpg",
+        "fn": "0080-4.webp"
+      },
+      {
+        "alt": "0077.jpg",
+        "fn": "0077.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us8 - Positron V3.2 - Base PlateThis guide contains instructions for building the base plate for the Positron V3.2.",
+      "Before you start to assemble, please make sure you have these parts printed.",
+      "For all the M2.5 screws, please use our screwdriver included in the kit.",
+      "Turn over the base plate and insert M3x8 BHCS screws through the holes as shown in the picture. Secure M3x8x7x10 standoffs into the screws.",
+      "Install M2.5x3x4 heatset inserts into holes of the printed mount.",
+      "3Prepare the MotorsStep 3 of 28 in this sectionPut the motor plates on top of the motors and secure with M3x6 BHCS screws.",
+      "Attach the AB motor plates to the standoffs and secure with M3x8 BHCS screws.",
+      "6Install the Switch PCBStep 6 of 28 in this sectionPosition the switch PCB onto the switch PCB mount and secure with M2.5x4 SHCS screws.",
+      "8Install Z Drive to the Base PlateStep 7 of 28 in this sectionThe teeth of the belt should face the pulley.",
+      "Turn over the base plate and secure the Z drive using M3x8 BHCS screws.",
+      "Refer to the pictures for base plate wiring. All the wires except the toolhead cable, power inlet cable and power switch cable should be wired beforehad as it will be difficult after the light strips, side panels and top covers are installed.",
+      "Plug the toolhead cable to the toolhead PCB as shown in the picure. We will install the PCB in later a step.",
+      "Move the Jumper above the Z_Endstop pin to the left, bridging ZSTOP and SIG. Refer to Positron Team Wiki .",
+      "11Position Light Bar BracketsStep 10 of 28 in this sectionInstall M2.5x3x4 heatset inserts into the hole of the rear light bar bracket.",
+      "Position the light guide strips onto the light bar bracket and secure with M2.5x6 BHCS screws.",
+      "Install M2.5x3x4 heatset inserts into the holes of left panels as shown in the picture.",
+      "Unscrew the nut on the switch, insert the the power switch cable through the hole of the back left side panel and screw the nut back.",
+      "Install M2.5x3x4 heatset inserts into the holes of the mid panels.",
+      "Position left side panel to the base plate.",
+      "24Install Left Upper Top CoverStep 16 of 28 in this sectionPosition the left upper top cover to the base plate and secure with BHCS screws. Use M2.5x10 BHCS screws in the holes close to the side panels (marked 2). Use an M2.5x6 BHCS screw in the hole close to the Z drive (marked 1).",
+      "Put the printed left panel cornerstones on the top cover and secure with M2.5x10 BHCS screws.",
+      "25 Install the IdlersStep 17 of 28 in this sectionPosition 3x6x0.5 washers and 3mm idlers onto the standoffs and secure with M3x8 wafer head screws.",
+      "Position the linear rail to the standoffs and align the holes. Secure the linear rail with M3x8 SHCS screws.",
+      "Install M3x6x5 heatset inserts in the top holes of the printed part.",
+      "29Install the Right Side PanelsStep 20 of 28 in this sectionInstall M2.5x3x4 heatset inserts into the rear cable panel.",
+      "30Install the Right Mid PanelStep 21 of 28 in this sectionPosition the right mid panel to the base plate and secure with FHCS screws. Use an M3x6 FHCS screw in the front hole (marked 1) . Use an M2.5x6 FHCS screw in the back hole (marked 2).",
+      "31 Install the Right Upper Top CoverStep 22 of 28 in this sectionPut the LED diffuser cover inside the printed LED cluster retainer and position the retainer onto the cover. Apply some glue on the indicated blue area to keep them in place.",
+      "32 Install the IdlersStep 23 of 28 in this sectionPut 3x6x0.5 washers and 3mm idlers onto the standoffs and secure with M3x8 wafer head screws.",
+      "34Install the Y Axis Bumper PlateStep 25 of 28 in this sectionPut the front Y axis bumper plate onto the head of the top covers and secure using M2.5x10 BHCS screws",
+      "38Install the Rubber FeetStep 27 of 28 in this sectionPosition the rubber feet onto the corners of the base plate, thread M4x8x0.5 washers and secure with M4x6 BHCS screws.",
+      "You now have completed the assembly of the base plate."
+    ],
+    "img_count": 125,
+    "step_count": 31,
+    "sec_count": 2
+  },
+  "9": {
+    "title": "9 - Positron V3.2 - Final Assembly",
+    "sections": [
+      {
+        "title": "1. Parts to Print",
+        "subs": []
+      },
+      {
+        "title": "2. Installation",
+        "subs": [
+          {
+            "title": "Printed Parts"
+          },
+          {
+            "title": "Preparation for the Printed Parts"
+          },
+          {
+            "title": "Install the Z Column"
+          },
+          {
+            "title": "Install Right Z Joint Plate"
+          },
+          {
+            "title": "Install the Motor to the Extruder"
+          },
+          {
+            "title": "Install the Ziptie Holder"
+          },
+          {
+            "title": "Route the Belt"
+          },
+          {
+            "title": "Install the Idlers to the Carriage Block"
+          },
+          {
+            "title": "Prepare X Axis Linear Rail"
+          },
+          {
+            "title": "Install X Linear Rail"
+          },
+          {
+            "title": "Route the Belt"
+          },
+          {
+            "title": "Belt Tensioning"
+          },
+          {
+            "title": "Install the Fan into the Enclosure"
+          },
+          {
+            "title": "Install the Toolhead"
+          },
+          {
+            "title": "Install Toolhead PCB"
+          },
+          {
+            "title": "Install the Glass Bed"
+          },
+          {
+            "title": "Assembly Complete"
+          },
+          {
+            "title": "Tips"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "0012.png",
+        "fn": "0012-7.webp"
+      },
+      {
+        "alt": "0015-0.png",
+        "fn": "0015-0.webp"
+      },
+      {
+        "alt": "0021.png",
+        "fn": "0021-1.webp"
+      },
+      {
+        "alt": "1001.png",
+        "fn": "1001-1.webp"
+      },
+      {
+        "alt": "t0015.png",
+        "fn": "t0015.webp"
+      },
+      {
+        "alt": "t0016.png",
+        "fn": "t0016.webp"
+      },
+      {
+        "alt": "0100.png",
+        "fn": "0100-1.webp"
+      },
+      {
+        "alt": "02-1.jpg",
+        "fn": "02-3.webp"
+      },
+      {
+        "alt": "01.jpg",
+        "fn": "01-4.webp"
+      },
+      {
+        "alt": "0086.png",
+        "fn": "0086-1.webp"
+      },
+      {
+        "alt": "04P.jpg",
+        "fn": "04P.webp"
+      },
+      {
+        "alt": "0085.png",
+        "fn": "0085-2.webp"
+      },
+      {
+        "alt": "03P.jpg",
+        "fn": "03P.webp"
+      },
+      {
+        "alt": "06 .jpg",
+        "fn": "06.webp"
+      },
+      {
+        "alt": "05 .jpg",
+        "fn": "05.webp"
+      },
+      {
+        "alt": "07 .jpg",
+        "fn": "07.webp"
+      },
+      {
+        "alt": "08 .jpg",
+        "fn": "08.webp"
+      },
+      {
+        "alt": "10.jpg",
+        "fn": "10.webp"
+      },
+      {
+        "alt": "09P.jpg",
+        "fn": "09P.webp"
+      },
+      {
+        "alt": "Zbelt0001.jpg",
+        "fn": "Zbelt0001.webp"
+      },
+      {
+        "alt": "Z belt 001.jpg",
+        "fn": "Z belt 001.webp"
+      },
+      {
+        "alt": "Z belt 002.jpg",
+        "fn": "Z belt 002.webp"
+      },
+      {
+        "alt": "bed breakout pcb 1.jpg",
+        "fn": "bed breakout pcb 1.webp"
+      },
+      {
+        "alt": "bed breakout pcb 3.jpg",
+        "fn": "bed breakout pcb 3.webp"
+      },
+      {
+        "alt": "012.jpg",
+        "fn": "012-1.webp"
+      },
+      {
+        "alt": "011.jpg",
+        "fn": "011-2.webp"
+      },
+      {
+        "alt": "0088-2.png",
+        "fn": "0088-4.webp"
+      },
+      {
+        "alt": "0088-1.png",
+        "fn": "0088-2.webp"
+      },
+      {
+        "alt": "0088-3.png",
+        "fn": "0088-5.webp"
+      },
+      {
+        "alt": "014.jpg",
+        "fn": "014.webp"
+      },
+      {
+        "alt": "016.jpg",
+        "fn": "016-3.webp"
+      },
+      {
+        "alt": "017.jpg",
+        "fn": "017-1.webp"
+      },
+      {
+        "alt": "013.jpg",
+        "fn": "013.webp"
+      },
+      {
+        "alt": "015.jpg",
+        "fn": "015-1.webp"
+      },
+      {
+        "alt": "belt 1.jpg",
+        "fn": "belt 1-1.webp"
+      },
+      {
+        "alt": "belt 2.jpg",
+        "fn": "belt 2.webp"
+      },
+      {
+        "alt": "belt 3-1.jpg",
+        "fn": "belt 3-1.webp"
+      },
+      {
+        "alt": "belt route 5.jpg",
+        "fn": "belt route 5.webp"
+      },
+      {
+        "alt": "toolhead beltt.jpg",
+        "fn": "toolhead beltt.webp"
+      },
+      {
+        "alt": "belt route 1.jpg",
+        "fn": "belt route 1.webp"
+      },
+      {
+        "alt": "belt route 3.jpg",
+        "fn": "belt route 3.webp"
+      },
+      {
+        "alt": "belt route 2.jpg",
+        "fn": "belt route 2.webp"
+      },
+      {
+        "alt": "belt tensioning.jpg",
+        "fn": "belt tensioning.webp"
+      },
+      {
+        "alt": "1003.png",
+        "fn": "1003.webp"
+      },
+      {
+        "alt": "0104.png",
+        "fn": "0104.webp"
+      },
+      {
+        "alt": "0106.png",
+        "fn": "0106.webp"
+      },
+      {
+        "alt": "0108.png",
+        "fn": "0108-1.webp"
+      },
+      {
+        "alt": "0110.png",
+        "fn": "0110.webp"
+      },
+      {
+        "alt": "0103.png",
+        "fn": "0103.webp"
+      },
+      {
+        "alt": "0105.png",
+        "fn": "0105-1.webp"
+      },
+      {
+        "alt": "0107.png",
+        "fn": "0107.webp"
+      },
+      {
+        "alt": "0109.png",
+        "fn": "0109.webp"
+      },
+      {
+        "alt": "0111.png",
+        "fn": "0111.webp"
+      },
+      {
+        "alt": "0112.png",
+        "fn": "0112.webp"
+      },
+      {
+        "alt": "0001-27.png",
+        "fn": "0001-27.webp"
+      },
+      {
+        "alt": "Toolhead wiring01.jpg",
+        "fn": "Toolhead wiring01.webp"
+      },
+      {
+        "alt": "Toolhead wiring02.jpg",
+        "fn": "Toolhead wiring02.webp"
+      },
+      {
+        "alt": "toolhead wiring2.jpg",
+        "fn": "toolhead wiring2.webp"
+      },
+      {
+        "alt": "0113.png",
+        "fn": "0113.webp"
+      },
+      {
+        "alt": "0114.png",
+        "fn": "0114.webp"
+      },
+      {
+        "alt": "0117.jpg",
+        "fn": "0117.webp"
+      },
+      {
+        "alt": "silicone strip01.jpg",
+        "fn": "silicone strip01.webp"
+      },
+      {
+        "alt": "0119.jpg",
+        "fn": "0119.webp"
+      },
+      {
+        "alt": "0120.jpg",
+        "fn": "0120.webp"
+      },
+      {
+        "alt": "silicone strip02.jpg",
+        "fn": "silicone strip02.webp"
+      },
+      {
+        "alt": "pv3-1.jpg",
+        "fn": "pv3-1.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us9 - Positron V3.2 - Final AssemblyThis guide contains instructions for putting all the parts together.",
+      "Before you start to assemble, please make sure you have these parts printed.",
+      "Install M2.5x3x4 heatset inserts into the printed fan enclosure and guide as shown in the pictures.",
+      "For all the M2.5 screws, please use our screwdriver included in the kit.",
+      "Install the Z column to the Z joint base block using the thumbscrew.",
+      "Position MR85ZZ bearings and planetary gears on the shaft.",
+      "Install the ziptie holder to the base plate and secure with an M3x6 BHCS screw.",
+      "Route the belt of the Z drive as shown in the pictures.",
+      "10Install the Idlers to the Carriage BlockStep 6 of 16 in this sectionPosition the washers and idlers in the order as shown in the picture on the carriage block. Secure them using M3x16 wafer head screws.",
+      "Insert an M3x12 wafer head into the idler and the washer. Position them to the end of the linear rail and secure with an M3x6 standoff.",
+      "Repeat the steps to prepare the other end of the linear rail.",
+      "Install H4.75xM3x12+4 standoffs into the carriage block of the linear rail.",
+      "14Belt TensioningStep 10 of 16 in this sectionIt is time for belt tensioning. Please fold the Z column slowly until the screw on the base block is exposed. If you feel the belt is a little loose, fasten the screw. If you feel the belt is tense, unscrew the screw a little.",
+      "Place the toolhead base plate onto the carriage block of X linear rail and secure with M3x6 FHCS screws.",
+      "Secure the toolhead PCB to the side of the toolhead with M2.5x4+4 standoffs. Be careful scewing the standoffs and don&#x27;t scrape other components on the board.",
+      "18Install the Glass BedStep 14 of 16 in this sectionPosition the bed V holder to the bed carriage block and secure with M6x17 thumbscrew.",
+      "You now have completed the assembly of the Positron V3.2.",
+      "When you insert the teflon tube into the extruder, please push it hard and make sure it is inserted into the heatbreak.",
+      "If you want to remove the filament from the extruder, please make sure that the end of the filament doesn&#x27;t has a blob otherwise it won&#x27;t retract out of the extruder. You need to remove the bowden tube and cut the end.",
+      "Please wait until the printed objects cool down before you pull them off from the glass bed."
+    ],
+    "img_count": 66,
+    "step_count": 20,
+    "sec_count": 2
+  },
+  "10": {
+    "title": "10 - Positron V3.2 - Folding",
+    "sections": [
+      {
+        "title": "1. Instructions",
+        "subs": [
+          {
+            "title": "Unload the Filament"
+          },
+          {
+            "title": "Remove the Glass Bed"
+          },
+          {
+            "title": "Remove the Bed V Holder"
+          },
+          {
+            "title": "Position the Z Idler Latch"
+          },
+          {
+            "title": "Remove the Thumb Screw"
+          },
+          {
+            "title": "Move the Toolhead and Bed Carriage Block"
+          },
+          {
+            "title": "Position Bed V Holder"
+          },
+          {
+            "title": "Fold the Z Column"
+          },
+          {
+            "title": "Move Toolhead to the Z Column"
+          },
+          {
+            "title": "Position the Screws"
+          },
+          {
+            "title": "A Tip"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "alt": "unload2.jpg",
+        "fn": "unload2.webp"
+      },
+      {
+        "alt": "unload1.jpg",
+        "fn": "unload1.webp"
+      },
+      {
+        "alt": "0002.jpg",
+        "fn": "0002-1.webp"
+      },
+      {
+        "alt": "0001.jpg",
+        "fn": "0001-9.webp"
+      },
+      {
+        "alt": "0004.jpg",
+        "fn": "0004-3.webp"
+      },
+      {
+        "alt": "0003.jpg",
+        "fn": "0003-2.webp"
+      },
+      {
+        "alt": "0006.jpg",
+        "fn": "0006-10.webp"
+      },
+      {
+        "alt": "0005.jpg",
+        "fn": "0005-3.webp"
+      },
+      {
+        "alt": "0008.jpg",
+        "fn": "0008.webp"
+      },
+      {
+        "alt": "0007.jpg",
+        "fn": "0007-5.webp"
+      },
+      {
+        "alt": "0009.jpg",
+        "fn": "0009-10.webp"
+      },
+      {
+        "alt": "0010.jpg",
+        "fn": "0010-8.webp"
+      },
+      {
+        "alt": "0011.jpg",
+        "fn": "0011-5.webp"
+      },
+      {
+        "alt": "0012.jpg",
+        "fn": "0012-2.webp"
+      },
+      {
+        "alt": "0015.jpg",
+        "fn": "0015-6.webp"
+      },
+      {
+        "alt": "0013.jpg",
+        "fn": "0013.webp"
+      },
+      {
+        "alt": "0014.jpg",
+        "fn": "0014-8.webp"
+      }
+    ],
+    "steps": [
+      "Contact Us10 - Positron V3.2 - FoldingThis guide walks you through the procedures of folding the Positron V3.2.",
+      "Before folding your printer, please remember to unload the filament first. Click Extrude and then Unload.",
+      "Remove the glass bed by pulling it outwards.",
+      "Unscrew the thumb screw and remove the bed V holder.",
+      "Move the idler latch downward and align it with the linear rail.",
+      "Remove the thumb screw at the bottom of the Z column.",
+      "Move the toolhead to the right end of the linear rail.",
+      "Position the bed V holder as shown in the picture.",
+      "Hold the bed V holder with one hand and fold the Z column with the other at the same time.",
+      "Move the toolhead back close to the Z column.",
+      "Just put the thumb screws here and don&#x27;t need to screw them. You can unplug the toolhead cable as it might be in the way of the thumbscrew hole.",
+      "Push ahead a little before you unfold the Z column."
+    ],
+    "img_count": 17,
+    "step_count": 12,
+    "sec_count": 1
+  }
+}
