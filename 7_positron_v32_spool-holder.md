@@ -4,7 +4,7 @@ This guide contains instructions for building the spool holder for the Positron 
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/7---positron-v32---spool-holder)
 
 ---
-**Previous:** [6 - Toolhead](6_positron_v32_toolhead.md) &nbsp;|&nbsp; **Next:** [8 - Base Plate](8_positron_v32_base-plate.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [6 - Toolhead](6_positron_v32_toolhead.md) &nbsp;|&nbsp; **Next:** [8 - Base Plate](8_positron_v32_base-plate.md)
 
 ## 1. Parts to Print
 
@@ -37,4 +37,4 @@ This guide contains instructions for building the spool holder for the Positron 
 |:-:|:-:|
 | [![0000-1](img/7/0000-1.preview.png)](img/7/0000-1.png) |  |
 ---
-**Previous:** [6 - Toolhead](6_positron_v32_toolhead.md) &nbsp;|&nbsp; **Next:** [8 - Base Plate](8_positron_v32_base-plate.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [6 - Toolhead](6_positron_v32_toolhead.md) &nbsp;|&nbsp; **Next:** [8 - Base Plate](8_positron_v32_base-plate.md)

@@ -4,7 +4,7 @@ This guide walks your through the assembly of the bowden extruder for the Positr
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/1---positron-v32---extruder)
 
 ---
-**Previous:** [Heatset Insert Tool](heatset_insert_tool.md) &nbsp;|&nbsp; **Next:** [2 - Z Column](2_positron_v32_z-column.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [Heatset Insert Tool](heatset_insert_tool.md) &nbsp;|&nbsp; **Next:** [2 - Z Column](2_positron_v32_z-column.md)
 
 ## 1. Parts to Print
 
@@ -111,4 +111,4 @@ This guide walks your through the assembly of the bowden extruder for the Positr
 |:-:|:-:|
 | [![19-1](img/1/19-1.preview.png)](img/1/19-1.png) |  |
 ---
-**Previous:** [Heatset Insert Tool](heatset_insert_tool.md) &nbsp;|&nbsp; **Next:** [2 - Z Column](2_positron_v32_z-column.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [Heatset Insert Tool](heatset_insert_tool.md) &nbsp;|&nbsp; **Next:** [2 - Z Column](2_positron_v32_z-column.md)

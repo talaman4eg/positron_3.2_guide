@@ -4,7 +4,7 @@ This guide contains instructions for building the Z drive for the Positron V3.2.
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/3---positron-v32---z-drive)
 
 ---
-**Previous:** [2 - Z Column](2_positron_v32_z-column.md) &nbsp;|&nbsp; **Next:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [2 - Z Column](2_positron_v32_z-column.md) &nbsp;|&nbsp; **Next:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md)
 
 ## 1. Parts to Print
 
@@ -105,4 +105,4 @@ This guide contains instructions for building the Z drive for the Positron V3.2.
 
 ### Assembly Schematic Diagram
 ---
-**Previous:** [2 - Z Column](2_positron_v32_z-column.md) &nbsp;|&nbsp; **Next:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [2 - Z Column](2_positron_v32_z-column.md) &nbsp;|&nbsp; **Next:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md)

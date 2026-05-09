@@ -4,7 +4,7 @@ This guide contains instructions for building the bed V holder for the Positron 
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/4---positron-v32---bed-v-holder)
 
 ---
-**Previous:** [3 - Z Drive](3_positron_v32_z-drive.md) &nbsp;|&nbsp; **Next:** [5 - Touch Panel](5_positron_v32_touch-panel.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [3 - Z Drive](3_positron_v32_z-drive.md) &nbsp;|&nbsp; **Next:** [5 - Touch Panel](5_positron_v32_touch-panel.md)
 
 ## 1. Parts to print
 
@@ -51,4 +51,4 @@ This guide contains instructions for building the bed V holder for the Positron 
 |:-:|:-:|
 | [![0008-10](img/4/0008-10.preview.png)](img/4/0008-10.png) |  |
 ---
-**Previous:** [3 - Z Drive](3_positron_v32_z-drive.md) &nbsp;|&nbsp; **Next:** [5 - Touch Panel](5_positron_v32_touch-panel.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [3 - Z Drive](3_positron_v32_z-drive.md) &nbsp;|&nbsp; **Next:** [5 - Touch Panel](5_positron_v32_touch-panel.md)

@@ -4,7 +4,7 @@ This guide contains instructions for building the touch panel for the Positron V
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/5---positron-v32---touch-panel)
 
 ---
-**Previous:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md) &nbsp;|&nbsp; **Next:** [6 - Toolhead](6_positron_v32_toolhead.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md) &nbsp;|&nbsp; **Next:** [6 - Toolhead](6_positron_v32_toolhead.md)
 
 ## 1. Parts to Print
 
@@ -69,4 +69,4 @@ This guide contains instructions for building the touch panel for the Positron V
 |:-:|:-:|
 | [![0011-4](img/5/0011-4.preview.png)](img/5/0011-4.png) |  |
 ---
-**Previous:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md) &nbsp;|&nbsp; **Next:** [6 - Toolhead](6_positron_v32_toolhead.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [4 - Bed V-Holder](4_positron_v32_bed-v-holder.md) &nbsp;|&nbsp; **Next:** [6 - Toolhead](6_positron_v32_toolhead.md)

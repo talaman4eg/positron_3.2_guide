@@ -4,7 +4,7 @@ This guide contains instructions for building the toolhead for the Positron V3.2
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/6---positron-v32---toolhead)
 
 ---
-**Previous:** [5 - Touch Panel](5_positron_v32_touch-panel.md) &nbsp;|&nbsp; **Next:** [7 - Spool Holder](7_positron_v32_spool-holder.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [5 - Touch Panel](5_positron_v32_touch-panel.md) &nbsp;|&nbsp; **Next:** [7 - Spool Holder](7_positron_v32_spool-holder.md)
 
 ## 1. Parts to Print
 
@@ -64,4 +64,4 @@ This guide contains instructions for building the toolhead for the Positron V3.2
 |:-:|:-:|
 | [![assembly5](img/6/assembly5.preview.png)](img/6/assembly5.png) |  |
 ---
-**Previous:** [5 - Touch Panel](5_positron_v32_touch-panel.md) &nbsp;|&nbsp; **Next:** [7 - Spool Holder](7_positron_v32_spool-holder.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [5 - Touch Panel](5_positron_v32_touch-panel.md) &nbsp;|&nbsp; **Next:** [7 - Spool Holder](7_positron_v32_spool-holder.md)

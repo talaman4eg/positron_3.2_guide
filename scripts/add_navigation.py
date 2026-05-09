@@ -23,23 +23,31 @@ GUIDES = [
 
 def build_nav(idx):
     """Build navigation line for guide at given index."""
-    parts = []
+    parts = ["**Index:** [README](README.md)"]
     if idx > 0:
         prev_fn, prev_title = GUIDES[idx - 1]
-        parts.append(f"[{prev_title}]({prev_fn})")
+        parts.append(f"**Previous:** [{prev_title}]({prev_fn})")
     if idx < len(GUIDES) - 1:
         next_fn, next_title = GUIDES[idx + 1]
-        parts.append(f"[{next_title}]({next_fn})")
+        parts.append(f"**Next:** [{next_title}]({next_fn})")
 
-    if not parts:
-        return ""
+    return " &nbsp;|&nbsp; ".join(parts)
 
-    if idx > 0 and idx < len(GUIDES) - 1:
-        return f"**Previous:** {parts[0]} &nbsp;|&nbsp; **Next:** {parts[1]}"
-    elif idx > 0:
-        return f"**Previous:** {parts[0]}"
-    else:
-        return f"**Next:** {parts[0]}"
+
+def strip_old_nav(content):
+    """Remove existing nav blocks (--- + nav line)."""
+    import re
+    # Remove --- + nav line blocks (handle possible doubled ---)
+    content = re.sub(r'\n---\n(?:---\n)?\*\*Index:\*\*.+?\n', '\n', content)
+    content = re.sub(r'\n---\n(?:---\n)?\*\*Previous:\*\*.+?\n', '\n', content)
+    content = re.sub(r'\n---\n(?:---\n)?\*\*Next:\*\*.+?\n', '\n', content)
+    # Remove bare nav lines without ---
+    content = re.sub(r'\n\[Index\]\(README\.md\).+?\n', '\n', content)
+    # Clean up orphaned --- separators (--- surrounded by blank lines)
+    content = re.sub(r'\n\n---\n\n', '\n\n', content)
+    # Clean up multiple consecutive blank lines
+    content = re.sub(r'\n{3,}', '\n\n', content)
+    return content.strip()
 
 
 def main():
@@ -49,32 +57,23 @@ def main():
             content = f.read()
 
         nav = build_nav(idx)
-        if not nav:
-            print(f"  SKIP {filename} (no neighbors)")
-            continue
 
-        # Remove existing nav if re-running
-        content = content.strip()
-        if nav in content:
-            # Remove old nav lines
-            lines = content.split("\n")
-            lines = [l for l in lines if l != nav]
-            content = "\n".join(lines).strip()
+        # Remove existing nav blocks if re-running
+        content = strip_old_nav(content)
 
-        # Add nav at top (after title block, before first ##)
-        # Find position after the blockquote link line
-        nav_top = f"\n---\n{nav}\n"
-        nav_bottom = f"\n---\n{nav}\n"
+        # Add nav at top after the "> Original:" blockquote
+        nav_block = f"\n---\n{nav}\n"
 
-        # Insert top nav after the "> Original:" blockquote
         orig_idx = content.find("> Original:")
         if orig_idx != -1:
-            # Find end of that line
             line_end = content.find("\n", orig_idx)
-            content = content[: line_end + 1] + nav_top + content[line_end + 1 :]
+            content = content[: line_end + 1] + nav_block + content[line_end + 1 :]
 
-        # Add bottom nav
-        content = content.rstrip() + nav_bottom
+        # Add bottom nav (ensure blank line before separator)
+        content = content.rstrip()
+        if not content.endswith("\n"):
+            content += "\n"
+        content += f"---\n{nav}\n"
 
         with open(filepath, "w") as f:
             f.write(content)

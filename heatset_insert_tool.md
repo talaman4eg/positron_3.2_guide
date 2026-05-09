@@ -4,7 +4,7 @@ Brass inserts are a popular way to add strong and reliable threaded holes to 3D 
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/heatset-insert-tool-guide)
 
 ---
-**Next:** [1 - Extruder](1_positron_3.2_extruder.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Next:** [1 - Extruder](1_positron_3.2_extruder.md)
 
 ## 1. Heatset Insert Tool
 
@@ -25,4 +25,4 @@ Brass inserts are a popular way to add strong and reliable threaded holes to 3D 
 ### Using the Tool
 - Turn on your soldering iron, if the iron is temperature adjustable, set it to a suitable temperature - you will want to set it to a temperature that isn't so low that it requires too much force to push the insert down, but not so high that the temperature liquifies the plastic. Ideally, the temperature of the iron should cause the plastic to become very soft but not runny. If the part is properly designed (all Voron printed parts are), you should be able to place the narrow end of the insert partially inside the hole. Then simply push the insert down using the tool until it is flush with the part surface. A few things to keep in mind: Do not leave the iron in the part for too long, the plastic will eventually become runny and warp. Constantly check to ensure that you are pushing down at the correct angle. If you find that the angle is wrong, you can use the iron to nudge the insert - but do not leave it in for too long! Try not to leave the iron turned on for longer than it needs to be - the brass tool will eventually start to oxidize when heated for long periods. Use the trick mentioned in the hackaday guide : push the insert 90% in, then use a flat tool to press the insert the rest of the way in.
 ---
-**Next:** [1 - Extruder](1_positron_3.2_extruder.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Next:** [1 - Extruder](1_positron_3.2_extruder.md)

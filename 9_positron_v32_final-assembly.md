@@ -4,7 +4,7 @@ This guide contains instructions for putting all the parts together.
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/9---positron-v32---final-assembly)
 
 ---
-**Previous:** [8 - Base Plate](8_positron_v32_base-plate.md) &nbsp;|&nbsp; **Next:** [10 - Folding](10_positron_v32_folding.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [8 - Base Plate](8_positron_v32_base-plate.md) &nbsp;|&nbsp; **Next:** [10 - Folding](10_positron_v32_folding.md)
 
 ## 1. Parts to Print
 
@@ -184,4 +184,4 @@ This guide contains instructions for putting all the parts together.
 - If you want to remove the filament from the extruder, please make sure that the end of the filament doesn't has a blob otherwise it won't retract out of the extruder. You need to remove the bowden tube and cut the end.
 - Please wait until the printed objects cool down before you pull them off from the glass bed.
 ---
-**Previous:** [8 - Base Plate](8_positron_v32_base-plate.md) &nbsp;|&nbsp; **Next:** [10 - Folding](10_positron_v32_folding.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [8 - Base Plate](8_positron_v32_base-plate.md) &nbsp;|&nbsp; **Next:** [10 - Folding](10_positron_v32_folding.md)

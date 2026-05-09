@@ -4,7 +4,7 @@ In this guide we will build the Z column for the Positron V3.2.
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/2---positron-v32---z-column)
 
 ---
-**Previous:** [1 - Extruder](1_positron_3.2_extruder.md) &nbsp;|&nbsp; **Next:** [3 - Z Drive](3_positron_v32_z-drive.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [1 - Extruder](1_positron_3.2_extruder.md) &nbsp;|&nbsp; **Next:** [3 - Z Drive](3_positron_v32_z-drive.md)
 
 ## 1. Parts to Print
 
@@ -171,4 +171,4 @@ In this guide we will build the Z column for the Positron V3.2.
 |:-:|:-:|
 | [![017-2](img/2/017-2.preview.png)](img/2/017-2.png) |  |
 ---
-**Previous:** [1 - Extruder](1_positron_3.2_extruder.md) &nbsp;|&nbsp; **Next:** [3 - Z Drive](3_positron_v32_z-drive.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [1 - Extruder](1_positron_3.2_extruder.md) &nbsp;|&nbsp; **Next:** [3 - Z Drive](3_positron_v32_z-drive.md)

@@ -4,7 +4,7 @@ This guide walks you through the procedures of folding the Positron V3.2.
 > Original: [LDO Motion Guide](https://ldomotion.com/guides/10---positron-v32---folding)
 
 ---
-**Previous:** [9 - Final Assembly](9_positron_v32_final-assembly.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [9 - Final Assembly](9_positron_v32_final-assembly.md)
 
 ## 1. Instructions
 
@@ -86,4 +86,4 @@ This guide walks you through the procedures of folding the Positron V3.2.
 |:-:|:-:|
 | [![0014-8](img/10/0014-8.preview.png)](img/10/0014-8.png) |  |
 ---
-**Previous:** [9 - Final Assembly](9_positron_v32_final-assembly.md)
+**Index:** [README](README.md) &nbsp;|&nbsp; **Previous:** [9 - Final Assembly](9_positron_v32_final-assembly.md)
